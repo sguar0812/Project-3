@@ -1016,6 +1016,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: c67199abaaecce94499f4865c3ee5021, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  particleFoodCrumbs: {fileID: 0}
 --- !u!135 &8788927396776765710
 SphereCollider:
   m_ObjectHideFlags: 0
